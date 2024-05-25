@@ -15,7 +15,7 @@ VibeCheck is a sentiment analysis tool built using Node.js and Vader sentiment a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/vibe-check.git
+   git clone https://github.com/Babon3112/VibeCheck.git
    ```
 
 2. Install dependencies:
@@ -52,5 +52,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Special thanks to the developers of Node.js, Vader sentiment analysis library, and other NLP libraries used in this project.
+- Special thanks to the developers of Node.js, Vader sentiment analysis library.
 - Inspired by the need to understand the sentiment dynamics of online communities.
